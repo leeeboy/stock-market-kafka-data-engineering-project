@@ -1,6 +1,15 @@
 
 # stock-market-kafka-data-engineering-project
 
+## 📚 Table of Contents
+- [Architecture](#-architecture)
+- [Project Description](#-project-description)
+- [Technologies Used](#-technologies-used)
+- [Project Workflow](#-project-workflow)
+- [How to Run](#-how-to-run)
+- [Prerequisites](#-prerequisites)
+
+
 ## ☁️ Architecture 
 ![Architecture](https://github.com/user-attachments/assets/c49e2b4c-74ae-48b8-9473-7b36c9ddd2df)
 
@@ -35,19 +44,6 @@ This project demonstrates the flow of stock market data from a CSV file through 
   - Athena
   - EC2 instance setup (for Kafka broker)
 - Apache Kafka installed on EC2 or locally
-
-## ✍️ Author
-Leela Lochan Madisetti
-
----
-
-## 📚 Table of Contents
-- [Project Description](#-project-description)
-- [Technologies Used](#-technologies-used)
-- [Project Workflow](#-project-workflow)
-- [How to Run](#-how-to-run)
-- [Prerequisites](#-prerequisites)
-- [Author](#-author)
 
 ## 📅 Built With
 - ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
